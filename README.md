@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arindamkeswani&label=Visitors&color=0e75b6&style=social" alt="arindamkeswani" /> 
+
 
 ### Hello there! 👋
 
@@ -29,8 +31,5 @@
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arindamkeswani)](https://github.com/arindamkeswani)
 
-----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arindamkeswani&label=Visitors&color=0e75b6&style=social" alt="arindamkeswani" /> 
   
 
